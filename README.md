@@ -1,4 +1,4 @@
-2013 US Census Core-Based Statistical Areas (CBSAs) and their attributes
+2013 US Census Core-Based Statistical Areas (CBSAs) and associated data
 
 1) CBSA_county.json - Constituent counties of each 2013 CBSA; includes CBSA code, full name, type, population, contituent city/county/state attributes (Source: http://www.census.gov/population/metro/files/lists/2013/List1.xls)
 
