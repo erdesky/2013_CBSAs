@@ -3964,8 +3964,8 @@
         "cbsa_name": "Louisville/Jefferson County, KY-IN",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 1244880,
-        "alias": "Louisville/Jefferson County",
-        "alias2": "Louisville/Jefferson County, KY"
+        "alias": "Louisville",
+        "alias2": "Louisville, KY"
     },
     {
         "cbsa_code": 31180,
@@ -6884,8 +6884,8 @@
         "cbsa_name": "Urban Honolulu, HI",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 964678,
-        "alias": "Urban Honolulu",
-        "alias2": "Urban Honolulu, HI"
+        "alias": "Honolulu",
+        "alias2": "Honolulu, HI"
     },
     {
         "cbsa_code": 46540,
