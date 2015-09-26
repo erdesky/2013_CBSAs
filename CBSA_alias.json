@@ -1097,11 +1097,11 @@
     },
     {
         "cbsa_code": 15860,
-        "cbsa_name": "Cañon City, CO",
+        "cbsa_name": "Canon City, CO",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 46850,
-        "alias": "Cañon City",
-        "alias2": "Cañon City, CO"
+        "alias": "Canon City",
+        "alias2": "Canon City, CO"
     },
     {
         "cbsa_code": 15900,
@@ -2169,11 +2169,11 @@
     },
     {
         "cbsa_code": 21580,
-        "cbsa_name": "Española, NM",
+        "cbsa_name": "Espanola, NM",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 40218,
-        "alias": "Española",
-        "alias2": "Española, NM"
+        "alias": "Espanola",
+        "alias2": "Espanola, NM"
     },
     {
         "cbsa_code": 21660,
