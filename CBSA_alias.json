@@ -396,7 +396,7 @@
         "cbsa_name": "Austin-Round Rock, TX",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 1782032,
-        "alias": "Austin, TX"
+        "alias": "Austin"
     },
     {
         "cbsa_code": 12460,
@@ -928,7 +928,7 @@
         "cbsa_name": "California-Lexington Park, MD",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 107079,
-        "alias": "California"
+        "alias": "California, MD"
     },
     {
         "cbsa_code": 15700,
@@ -3581,7 +3581,7 @@
         "cbsa_name": "Manhattan, KS",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 95252,
-        "alias": "Manhattan"
+        "alias": "Manhattan, KS"
     },
     {
         "cbsa_code": 31820,
