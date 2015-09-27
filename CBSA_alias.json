@@ -193,7 +193,7 @@
         "cbsa_name": "Amsterdam, NY",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 50019,
-        "alias": "Amsterdam"
+        "alias": "Amsterdam, NY"
     },
     {
         "cbsa_code": 11260,
@@ -214,7 +214,7 @@
         "cbsa_name": "Angola, IN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 34190,
-        "alias": "Angola"
+        "alias": "Angola, IN"
     },
     {
         "cbsa_code": 11460,
@@ -473,7 +473,7 @@
         "cbsa_name": "Batavia, NY",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 59872,
-        "alias": "Batavia"
+        "alias": "Batavia, NY"
     },
     {
         "cbsa_code": 12900,
@@ -543,7 +543,7 @@
         "cbsa_name": "Bedford, IN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 46053,
-        "alias": "Bedford"
+        "alias": "Bedford, IN"
     },
     {
         "cbsa_code": 13300,
@@ -599,7 +599,7 @@
         "cbsa_name": "Berlin, NH-VT",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 38796,
-        "alias": "Berlin"
+        "alias": "Berlin, NH"
     },
     {
         "cbsa_code": 13660,
@@ -641,7 +641,7 @@
         "cbsa_name": "Birmingham-Hoover, AL",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 1132182,
-        "alias": "Birmingham"
+        "alias": "Birmingham, AL"
     },
     {
         "cbsa_code": 13900,
@@ -816,14 +816,14 @@
         "cbsa_name": "Bridgeport-Stamford-Norwalk, CT",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 926233,
-        "alias": "Bridgeport"
+        "alias": "Bridgeport, CT"
     },
     {
         "cbsa_code": 15020,
         "cbsa_name": "Brookhaven, MS",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 34870,
-        "alias": "Brookhaven"
+        "alias": "Brookhaven, MS"
     },
     {
         "cbsa_code": 15060,
@@ -858,14 +858,14 @@
         "cbsa_name": "Brunswick, GA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 112831,
-        "alias": "Brunswick"
+        "alias": "Brunswick, GA"
     },
     {
         "cbsa_code": 15340,
         "cbsa_name": "Bucyrus, OH",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 43348,
-        "alias": "Bucyrus"
+        "alias": "Bucyrus, OH"
     },
     {
         "cbsa_code": 15380,
@@ -1180,7 +1180,7 @@
         "cbsa_name": "Clarksville, TN-KY",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 266098,
-        "alias": "Clarksville"
+        "alias": "Clarksville, TN"
     },
     {
         "cbsa_code": 17340,
@@ -1334,7 +1334,7 @@
         "cbsa_name": "Concord, NH",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 146710,
-        "alias": "Concord"
+        "alias": "Concord, NH"
     },
     {
         "cbsa_code": 18220,
@@ -1369,7 +1369,7 @@
         "cbsa_name": "Corinth, MS",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 37159,
-        "alias": "Corinth"
+        "alias": "Corinth, MS"
     },
     {
         "cbsa_code": 18460,
@@ -1523,7 +1523,7 @@
         "cbsa_name": "Davenport-Moline-Rock Island, IA-IL",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 381142,
-        "alias": "Davenport"
+        "alias": "Davenport, IA"
     },
     {
         "cbsa_code": 19380,
@@ -1628,7 +1628,7 @@
         "cbsa_name": "Dixon, IL",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 35535,
-        "alias": "Dixon"
+        "alias": "Dixon, IL"
     },
     {
         "cbsa_code": 19980,
@@ -1649,28 +1649,28 @@
         "cbsa_name": "Douglas, GA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 42841,
-        "alias": "Douglas"
+        "alias": "Douglas, GA"
     },
     {
         "cbsa_code": 20100,
         "cbsa_name": "Dover, DE",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 165030,
-        "alias": "Dover"
+        "alias": "Dover, DE"
     },
     {
         "cbsa_code": 20140,
         "cbsa_name": "Dublin, GA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 58106,
-        "alias": "Dublin"
+        "alias": "Dublin, GA"
     },
     {
         "cbsa_code": 20180,
         "cbsa_name": "DuBois, PA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 81536,
-        "alias": "DuBois"
+        "alias": "DuBois, PA"
     },
     {
         "cbsa_code": 20220,
@@ -1726,7 +1726,7 @@
         "cbsa_name": "Durham-Chapel Hill, NC",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 516798,
-        "alias": "Durham"
+        "alias": "Durham, NC"
     },
     {
         "cbsa_code": 20540,
@@ -1747,7 +1747,7 @@
         "cbsa_name": "Easton, MD",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 37859,
-        "alias": "Easton"
+        "alias": "Easton, MD"
     },
     {
         "cbsa_code": 20700,
@@ -2272,7 +2272,7 @@
         "cbsa_name": "Glasgow, KY",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 52547,
-        "alias": "Glasgow"
+        "alias": "Glasgow, KY"
     },
     {
         "cbsa_code": 24020,
@@ -2489,7 +2489,7 @@
         "cbsa_name": "Hammond, LA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 122665,
-        "alias": "Hammond"
+        "alias": "Hammond, LA"
     },
     {
         "cbsa_code": 25260,
@@ -2699,7 +2699,7 @@
         "cbsa_name": "Huntingdon, PA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 45874,
-        "alias": "Huntingdon"
+        "alias": "Huntingdon, PA"
     },
     {
         "cbsa_code": 26540,
@@ -2762,7 +2762,7 @@
         "cbsa_name": "Indiana, PA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 88404,
-        "alias": "Indiana"
+        "alias": "Indiana, PA"
     },
     {
         "cbsa_code": 26900,
@@ -3084,14 +3084,14 @@
         "cbsa_name": "Kingsport-Bristol-Bristol, TN-VA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 308957,
-        "alias": "Kingsport"
+        "alias": "Kingsport, TN"
     },
     {
         "cbsa_code": 28740,
         "cbsa_name": "Kingston, NY",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 182086,
-        "alias": "Kingston"
+        "alias": "Kingston, NY"
     },
     {
         "cbsa_code": 28780,
@@ -3217,7 +3217,7 @@
         "cbsa_name": "Lancaster, PA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 523306,
-        "alias": "Lancaster"
+        "alias": "Lancaster, PA"
     },
     {
         "cbsa_code": 29620,
@@ -3280,14 +3280,14 @@
         "cbsa_name": "Lawrence, KS",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 112210,
-        "alias": "Lawrence"
+        "alias": "Lawrence, KS"
     },
     {
         "cbsa_code": 29980,
         "cbsa_name": "Lawrenceburg, TN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 41927,
-        "alias": "Lawrenceburg"
+        "alias": "Lawrenceburg, TN"
     },
     {
         "cbsa_code": 30020,
@@ -3371,14 +3371,14 @@
         "cbsa_name": "Liberal, KS",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 23146,
-        "alias": "Liberal"
+        "alias": "Liberal, KS"
     },
     {
         "cbsa_code": 30620,
         "cbsa_name": "Lima, OH",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 105895,
-        "alias": "Lima"
+        "alias": "Lima, OH"
     },
     {
         "cbsa_code": 30660,
@@ -3434,7 +3434,7 @@
         "cbsa_name": "London, KY",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 126761,
-        "alias": "London"
+        "alias": "London, KY"
     },
     {
         "cbsa_code": 30980,
@@ -3574,7 +3574,7 @@
         "cbsa_name": "Manchester-Nashua, NH",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 402017,
-        "alias": "Manchester"
+        "alias": "Manchester, NH"
     },
     {
         "cbsa_code": 31740,
@@ -3721,7 +3721,7 @@
         "cbsa_name": "Maysville, KY",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 17452,
-        "alias": "Maysville"
+        "alias": "Maysville, KY"
     },
     {
         "cbsa_code": 32540,
@@ -3770,7 +3770,7 @@
         "cbsa_name": "Medford, OR",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 205117,
-        "alias": "Medford"
+        "alias": "Medford, OR"
     },
     {
         "cbsa_code": 32820,
@@ -3798,7 +3798,7 @@
         "cbsa_name": "Meridian, MS",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 107334,
-        "alias": "Meridian"
+        "alias": "Meridian, MS"
     },
     {
         "cbsa_code": 32980,
@@ -3840,7 +3840,7 @@
         "cbsa_name": "Middlesborough, KY",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 28409,
-        "alias": "Middlesborough"
+        "alias": "Middlesborough, KY"
     },
     {
         "cbsa_code": 33220,
@@ -3952,7 +3952,7 @@
         "cbsa_name": "Montrose, CO",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 41020,
-        "alias": "Montrose"
+        "alias": "Montrose, CO"
     },
     {
         "cbsa_code": 33980,
@@ -3987,7 +3987,7 @@
         "cbsa_name": "Moscow, ID",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 37636,
-        "alias": "Moscow"
+        "alias": "Moscow, ID"
     },
     {
         "cbsa_code": 34180,
@@ -4218,7 +4218,7 @@
         "cbsa_name": "Newton, IA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 36710,
-        "alias": "Newton"
+        "alias": "Newton, IA"
     },
     {
         "cbsa_code": 35580,
@@ -4288,14 +4288,14 @@
         "cbsa_name": "Norwalk, OH",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 59390,
-        "alias": "Norwalk"
+        "alias": "Norwalk, OH"
     },
     {
         "cbsa_code": 35980,
         "cbsa_name": "Norwich-New London, CT",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 274090,
-        "alias": "Norwich"
+        "alias": "Norwich, CT"
     },
     {
         "cbsa_code": 36020,
@@ -4323,7 +4323,7 @@
         "cbsa_name": "Odessa, TX",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 141542,
-        "alias": "Odessa"
+        "alias": "Odessa, TX"
     },
     {
         "cbsa_code": 36260,
@@ -4372,7 +4372,7 @@
         "cbsa_name": "Olympia-Tumwater, WA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 256080,
-        "alias": "Olympia"
+        "alias": "Olympia, WA"
     },
     {
         "cbsa_code": 36540,
@@ -4533,7 +4533,7 @@
         "cbsa_name": "Palestine, TX",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 58262,
-        "alias": "Palestine"
+        "alias": "Palestine, TX"
     },
     {
         "cbsa_code": 37340,
@@ -4631,7 +4631,7 @@
         "cbsa_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 5992766,
-        "alias": "Philadelphia"
+        "alias": "Philadelphia, PA"
     },
     {
         "cbsa_code": 38060,
@@ -4715,7 +4715,7 @@
         "cbsa_name": "Plymouth, IN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 47057,
-        "alias": "Plymouth"
+        "alias": "Plymouth, IN"
     },
     {
         "cbsa_code": 38540,
@@ -4813,7 +4813,7 @@
         "cbsa_name": "Portsmouth, OH",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 78952,
-        "alias": "Portsmouth"
+        "alias": "Portsmouth, OH"
     },
     {
         "cbsa_code": 39060,
@@ -5072,7 +5072,7 @@
         "cbsa_name": "Rome, GA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 96147,
-        "alias": "Rome"
+        "alias": "Rome, GA"
     },
     {
         "cbsa_code": 40700,
@@ -5723,7 +5723,7 @@
         "cbsa_name": "Stockton-Lodi, CA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 693177,
-        "alias": "Stockton"
+        "alias": "Stockton, CA"
     },
     {
         "cbsa_code": 44740,
@@ -5835,7 +5835,7 @@
         "cbsa_name": "Taylorville, IL",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 34651,
-        "alias": "Taylorville"
+        "alias": "Taylorville, IL"
     },
     {
         "cbsa_code": 45460,
@@ -5877,7 +5877,7 @@
         "cbsa_name": "Thomasville, GA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 44692,
-        "alias": "Thomasville"
+        "alias": "Thomasville, GA"
     },
     {
         "cbsa_code": 45660,
@@ -5940,7 +5940,7 @@
         "cbsa_name": "Troy, AL",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 32977,
-        "alias": "Troy"
+        "alias": "Troy, AL"
     },
     {
         "cbsa_code": 46020,
@@ -6206,7 +6206,7 @@
         "cbsa_name": "Warsaw, IN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 77527,
-        "alias": "Warsaw"
+        "alias": "Warsaw, IN"
     },
     {
         "cbsa_code": 47780,
@@ -6381,14 +6381,14 @@
         "cbsa_name": "Wilson, NC",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 81365,
-        "alias": "Wilson"
+        "alias": "Wilson, NC"
     },
     {
         "cbsa_code": 49020,
         "cbsa_name": "Winchester, VA-WV",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 129786,
-        "alias": "Winchester"
+        "alias": "Winchester, VA"
     },
     {
         "cbsa_code": 49080,
@@ -6409,7 +6409,7 @@
         "cbsa_name": "Winston-Salem, NC",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 644250,
-        "alias": "Winston"
+        "alias": "Winston, NC"
     },
     {
         "cbsa_code": 49220,
@@ -6437,7 +6437,7 @@
         "cbsa_name": "Worcester, MA-CT",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 920803,
-        "alias": "Worcester"
+        "alias": "Worcester, MA"
     },
     {
         "cbsa_code": 49380,
@@ -6465,7 +6465,7 @@
         "cbsa_name": "York-Hanover, PA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 436339,
-        "alias": "York"
+        "alias": "York, PA"
     },
     {
         "cbsa_code": 49660,
