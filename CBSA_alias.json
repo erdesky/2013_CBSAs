@@ -5380,7 +5380,7 @@
         "cbsa_name": "Sebastian-Vero Beach, FL",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 139356,
-        "alias": "Sebastian"
+        "alias": "Sebastian, FL"
     },
     {
         "cbsa_code": 42700,
@@ -5415,7 +5415,7 @@
         "cbsa_name": "Seneca, SC",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 74419,
-        "alias": "Seneca"
+        "alias": "Seneca, SC"
     },
     {
         "cbsa_code": 42900,
@@ -5436,7 +5436,7 @@
         "cbsa_name": "Seymour, IN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 42769,
-        "alias": "Seymour"
+        "alias": "Seymour, IN"
     },
     {
         "cbsa_code": 43020,
@@ -5555,7 +5555,7 @@
         "cbsa_name": "Snyder, TX",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 17014,
-        "alias": "Snyder"
+        "alias": "Snyder, TX"
     },
     {
         "cbsa_code": 43700,
@@ -5576,7 +5576,7 @@
         "cbsa_name": "Sonora, CA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 54728,
-        "alias": "Sonora"
+        "alias": "Sonora, CA"
     },
     {
         "cbsa_code": 43780,
@@ -5604,7 +5604,7 @@
         "cbsa_name": "Spencer, IA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 16604,
-        "alias": "Spencer"
+        "alias": "Spencer, IA"
     },
     {
         "cbsa_code": 44020,
@@ -5905,7 +5905,7 @@
         "cbsa_name": "Toledo, OH",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 609437,
-        "alias": "Toledo"
+        "alias": "Toledo, OH"
     },
     {
         "cbsa_code": 45820,
@@ -6017,7 +6017,7 @@
         "cbsa_name": "Urbana, OH",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 39855,
-        "alias": "Urbana"
+        "alias": "Urbana, OH"
     },
     {
         "cbsa_code": 46520,
@@ -6059,7 +6059,7 @@
         "cbsa_name": "Valley, AL",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 34145,
-        "alias": "Valley"
+        "alias": "Valley, AL"
     },
     {
         "cbsa_code": 46780,
@@ -6073,7 +6073,7 @@
         "cbsa_name": "Vermillion, SD",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 13953,
-        "alias": "Vermillion"
+        "alias": "Vermillion, SD"
     },
     {
         "cbsa_code": 46860,
@@ -6087,7 +6087,7 @@
         "cbsa_name": "Vernon, TX",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 13371,
-        "alias": "Vernon"
+        "alias": "Vernon, TX"
     },
     {
         "cbsa_code": 46980,
@@ -6101,7 +6101,7 @@
         "cbsa_name": "Victoria, TX",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 95349,
-        "alias": "Victoria"
+        "alias": "Victoria, TX"
     },
     {
         "cbsa_code": 47080,
@@ -6115,7 +6115,7 @@
         "cbsa_name": "Vincennes, IN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 38266,
-        "alias": "Vincennes"
+        "alias": "Vincennes, IN"
     },
     {
         "cbsa_code": 47220,
@@ -6150,7 +6150,7 @@
         "cbsa_name": "Wabash, IN",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 32650,
-        "alias": "Wabash"
+        "alias": "Wabash, IN"
     },
     {
         "cbsa_code": 47380,
@@ -6192,14 +6192,14 @@
         "cbsa_name": "Warren, PA",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 41429,
-        "alias": "Warren"
+        "alias": "Warren, PA"
     },
     {
         "cbsa_code": 47660,
         "cbsa_name": "Warrensburg, MO",
         "cbsa_type": "Micropolitan",
         "cbsa_pop": 53517,
-        "alias": "Warrensburg"
+        "alias": "Warrensburg, MO"
     },
     {
         "cbsa_code": 47700,
@@ -6241,7 +6241,7 @@
         "cbsa_name": "Waterloo-Cedar Falls, IA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 168271,
-        "alias": "Waterloo"
+        "alias": "Waterloo, IA"
     },
     {
         "cbsa_code": 47980,
