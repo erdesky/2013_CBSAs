@@ -4631,7 +4631,7 @@
         "cbsa_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 5992766,
-        "alias": "Philadelphia, PA"
+        "alias": "Philadelphia"
     },
     {
         "cbsa_code": 38060,
@@ -4792,7 +4792,7 @@
         "cbsa_name": "Portland-Vancouver-Hillsboro, OR-WA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 2260591,
-        "alias": "Portland, OR"
+        "alias": "Portland"
     },
     {
         "cbsa_code": 38920,
