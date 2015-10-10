@@ -1208,7 +1208,7 @@
         "cbsa_name": "Cleveland-Elyria, OH",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 2070965,
-        "alias": "Cleveland, OH"
+        "alias": "Cleveland"
     },
     {
         "cbsa_code": 17500,
@@ -3462,7 +3462,7 @@
         "cbsa_name": "Los Angeles-Long Beach-Anaheim, CA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 12945252,
-        "alias": "Los Angeles"
+        "alias": "LA"
     },
     {
         "cbsa_code": 31140,
@@ -4232,7 +4232,7 @@
         "cbsa_name": "New York-Newark-Jersey City, NY-NJ-PA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 19716880,
-        "alias": "New York"
+        "alias": "NY"
     },
     {
         "cbsa_code": 35660,
@@ -5723,7 +5723,7 @@
         "cbsa_name": "Stockton-Lodi, CA",
         "cbsa_type": "Metropolitan",
         "cbsa_pop": 693177,
-        "alias": "Stockton, CA"
+        "alias": "Stockton"
     },
     {
         "cbsa_code": 44740,
